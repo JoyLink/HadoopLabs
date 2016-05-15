@@ -23,6 +23,6 @@ public class MaxTemperatureMapper
         }
     }
 }
-//aa
+
 
 
