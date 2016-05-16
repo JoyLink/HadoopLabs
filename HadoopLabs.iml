@@ -12,5 +12,6 @@
     <orderEntry type="library" name="commons-configuration-1.10" level="project" />
     <orderEntry type="library" name="commons-lang-2.6" level="project" />
     <orderEntry type="library" name="jackson-all-1.9.0" level="project" />
+    <orderEntry type="library" name="org.apache.commons.httpclient" level="project" />
   </component>
 </module>
