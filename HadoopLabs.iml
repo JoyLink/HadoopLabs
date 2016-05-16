@@ -11,5 +11,6 @@
     <orderEntry type="library" name="commons-logging-1.2" level="project" />
     <orderEntry type="library" name="commons-configuration-1.10" level="project" />
     <orderEntry type="library" name="commons-lang-2.6" level="project" />
+    <orderEntry type="library" name="jackson-all-1.9.0" level="project" />
   </component>
 </module>
