@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff67507e-d922-4991-8a53-d520c254e069" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_commons_httpclient.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HadoopLabs.iml" afterPath="$PROJECT_DIR$/HadoopLabs.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HadoopLabs.iws" />
@@ -41,8 +39,8 @@
       <file leaf-file-name="MaxTemperatureMapper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MaxTemperatureMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29816514">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.30963302">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -402,7 +400,13 @@
       <option name="project" value="LOCAL" />
       <updated>1463356048014</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="classnotfoundexception caused by org.apache.commons.httpclient.jar solved">
+      <created>1463358165276</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1463358165276</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -456,7 +460,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A simple temperature demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="A simple temperature demo" />
+    <MESSAGE value="classnotfoundexception caused by org.apache.commons.httpclient.jar solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="classnotfoundexception caused by org.apache.commons.httpclient.jar solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -531,8 +536,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MaxTemperatureMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29816514">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.30963302">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
